@@ -1,0 +1,16 @@
+{
+  "name": "node-kafka-socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arkadiusz Jachnik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "kafka-node": "^1.0.7",
+    "socket.io": "^1.7.2"
+  }
+}
